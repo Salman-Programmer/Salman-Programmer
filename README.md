@@ -40,9 +40,7 @@
 
 
 
-<h3 align="center">
-<img src="./assets/about/about.svg" alt="ICON" width="200" />
-</h3>
+# 📊 About me :
 
 ```json
 {
@@ -62,9 +60,7 @@
 }
 ```
 
-<h3 align="center">
-<img src="./assets/tech stack/techstack.svg" alt="ICON" width="200" />
-</h3>
+# 💻 Tech Stack:
 
 ### 👨‍💻 Programming Languages
 
@@ -105,9 +101,7 @@
 </p>
 
 
-<h3 align="center">
-<img src="./assets/activities/github.svg" alt="ICON" width="200" />
-</h3>
+# 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Salman-Programmer&theme=github-dark" alt="GitHub Streak" />
@@ -117,9 +111,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<h3 align="center">
-  <img src="./assets/activities/thought.svg" alt="ICON" width="200" />
-</h3>
+# 📊 Tech Thought:
 <p align="center">
   <img 
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quoteColor=bb7dfa&fontSize=18"
