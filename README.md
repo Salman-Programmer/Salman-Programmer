@@ -69,8 +69,7 @@
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
-  <a href="#"><img alt="JAVA" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
@@ -109,6 +108,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Salman-Programmer&theme=github-dark" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <h3 align="center">
   <img src="./assets/activities/thought.svg" alt="ICON" width="200" />
@@ -120,10 +122,6 @@
     width="70%"
   />
 </p>
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 <img 
   src="./assets/footer/footer.svg"
