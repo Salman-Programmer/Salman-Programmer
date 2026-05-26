@@ -106,7 +106,7 @@
 
 
 <h3 align="center">
-<img src="./assets/activitie/github.svg" alt="ICON" width="200" />
+<img src="./assets/activities/github.svg" alt="ICON" width="200" />
 </h3>
 
 <div align="center">
