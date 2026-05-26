@@ -62,7 +62,9 @@
 }
 ```
 
-<h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
+<h3 align="center">
+<img src="./assets/tech stack/techstack.svg" alt="ICON" width="200" />
+</h3>
 
 ### 👨‍💻 Programming Languages
 
@@ -103,7 +105,9 @@
 </p>
 
 
-## GitHub Streak
+<h3 align="center">
+<img src="./assets/activitie/github.svg" alt="ICON" width="200" />
+</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Salman-Programmer&theme=github-dark" alt="GitHub Streak" />
