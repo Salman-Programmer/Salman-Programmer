@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 
 
 <img 
@@ -61,6 +61,7 @@
   }
 }
 ```
+
 <h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
 
 ### 👨‍💻 Programming Languages
