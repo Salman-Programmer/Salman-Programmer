@@ -24,7 +24,7 @@
 
 <p align="center">
 
-<a href="#" target="_blank" rel="noopener noreferrer">
+<a href="https://salman-portfolio-nu.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="assets/header/portfolio.svg"  width="150"/>
 </a>
 
